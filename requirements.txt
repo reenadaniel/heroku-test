@@ -1,1 +1,1 @@
-import tweepy==3.6.0
+import tweepy==3.5.0
